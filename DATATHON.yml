@@ -1,0 +1,20 @@
+name: DATATHON
+channels:
+  - defaults
+dependencies:
+  - h5py
+  - ipython
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python
+  - scikit-learn
+  - scipy
+  - spyder
+  - seaborn
+  - bokeh
+  - wheel
+  - keras
+  - tensorflow
+

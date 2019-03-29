@@ -1,0 +1,12 @@
+name: data-viz
+channels:
+  - defaults
+dependencies:
+  - bokeh
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - python=3.6.6
+  - seaborn
+  - spyder
